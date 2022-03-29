@@ -1,0 +1,1 @@
+constructor(index, previousHash, timestamp, data, hash) {
